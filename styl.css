@@ -1,0 +1,21 @@
+*{
+    margin: 1px;;
+    padding: 0%;
+    background-color: #EBF4FA;
+}
+.head{
+    height: fit-content;background-color:rgb(244, 240, 255)
+}
+.nav{
+    height: fit-content;background-color: rgb(0, 255, 242);
+}
+.b1{
+    border: 0ch; height: 400px; width: 400px;
+
+}
+.i1{
+    border: 0ch; height: 400; width: 400;
+}
+.footer{
+    margin: 30px;
+}
